@@ -1,6 +1,6 @@
 # Hi 👋, I'm Cort Code
 
-### be a full-stack dev
+### i want to be a Full-Stack .NET Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crtzndev&label=Profile views&color=0e75b6&style=flat" alt="crtzndev" /> </p>
 
