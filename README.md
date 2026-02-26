@@ -2,9 +2,6 @@
 
 ### i want to be a Full-Stack .NET Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crtzndev&label=Profile views&color=0e75b6&style=flat" alt="crtzndev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crtzndev" alt="crtzndev" /></a> </p>
 
 - 🌱 I'm currently learning **the 3 core foundations html, css, js**
 
