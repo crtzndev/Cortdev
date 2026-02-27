@@ -1,5 +1,13 @@
-# Hi 👋, I'm Cort Code
+<h1 align="center" align-items="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=00AAFF&center=true&vCenter=true&width=500&height=70&lines=Hi!+👋;I'm+Cort Code" alt="Typing SVG" />
+</h1>
+### About me
 
+- I want to become a web developer.
+- Mainly focused on webdev, full stack development and testing.
+- Interested in Artificial Inteligence, Game Development.
+- Always searching for knowledge.
+  
 ### i want to be a Full-Stack .NET Developer
 
 
@@ -68,5 +76,7 @@
     <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
   </a>
 </p>
+
+
 
 
