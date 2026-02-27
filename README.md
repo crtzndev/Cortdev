@@ -9,8 +9,9 @@
 - Interested in Artificial Inteligence, Game Development.
 - Always searching for knowledge.
   
-### i want to be a Full-Stack .NET Developer
+  
 
+<br>
 
 - 🌱 I'm currently learning **Backend and Api, Database and Auth and Security**
 
